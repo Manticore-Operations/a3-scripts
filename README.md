@@ -4,8 +4,9 @@ A collection of useful functionality for mission making
 All projects are assumed to require at a minimum ACE 3 and CBA. Any additional dependecies will be clearly highlighted in the README file.
 
 ### How to use
-- Each functionality is in its own directory to make it easy to take whats needed for any particular thing.
-- Each functionality should have its own README file to explain whaty it does and how to use/customise it.
+- Each functionality is in its own directory to make it easy to see and take whats needed for any particular functionality.
+- Each functionality should have its own README file to explain whaty it does and how to use/customise it. 
+- The README is not needed for functionality.
 
 ### How to contribute
 - Each functionality should be put into its own directory so that people take take everything from a directory and assume it is required for the afformention functionality to work.
