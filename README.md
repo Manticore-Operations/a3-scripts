@@ -16,4 +16,4 @@ All projects are assumed to require at a minimum ACE 3 and CBA. Any additional d
   - Any dependencies other than CBA and/or ACE 3 MUST be clearly marked in the additional dependencies section.
   - Information about any known issues with the current functionality.
  - If updating an existing functionality add a consise summary of changes to the changes section of the functionalitys README.
- - If adding a new functionality the functionality should be in a working state.
+ - If adding a new functionality the functionality should be in a working state and be multiplayer compatible.
