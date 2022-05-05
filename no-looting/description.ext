@@ -1,0 +1,11 @@
+class Params
+{
+	class NoLooting
+	{
+		title = "Disable looting primaries from dead AI";
+		values[] = {False,True};
+		default = True;
+		file = "no_looting\no_looting.sqf";
+		isGlobal = 0;
+	};
+};
