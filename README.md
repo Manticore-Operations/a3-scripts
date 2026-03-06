@@ -5,7 +5,7 @@ All projects are assumed to require at a minimum ACE 3 and CBA. Any additional d
 
 ### How to use
 - Each script is in its own directory to make it easy to see and take whats needed for any particular script to run.
-- Each script should have its own coresponding wiki entry to explain what it does and how to use/customise it. 
+- Each script should have its own coresponding [wiki](https://github.com/Manticore-Operations/a3-scripts/wiki) entry to explain what it does and how to use/customise it. 
 
 ### How to contribute
 - Each script should be put into its own directory so that people take take everything from a directory and assume it is required for the afformention script to work.
